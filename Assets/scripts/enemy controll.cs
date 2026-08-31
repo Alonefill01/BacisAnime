@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class enemycontroll : MonoBehaviour
+public class enemycontroller: MonoBehaviour
 {
     float speed = 1f;
     Rigidbody rb;
