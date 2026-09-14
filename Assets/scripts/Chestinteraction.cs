@@ -3,7 +3,7 @@ using UnityEngine;
 public class Chestinteraction : MonoBehaviour, IIinteractable
 {
     Animator anim;
-    bool opened;
+     static bool opened;
 
     void Start()
     {
